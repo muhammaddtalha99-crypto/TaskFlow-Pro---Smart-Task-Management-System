@@ -103,27 +103,24 @@ http://127.0.0.1:8000
 
 ## Screenshots
 
+
 ### Login Page
+![Login Page](Screenshots/login-page.jpeg)
 
-![Login Page](login-page.JPEG)
+### TaskFlow Pro Page
+![TaskFlow Pro Page](Screenshots/taskflow-pro-page.jpeg)
 
-### Dashboard
+### Dashboard Page
+![Dashboard Page](Screenshots/dashboard-page.jpeg)
 
-![Dashboard](dashboard-page.JPEG)
-
-### Categories
-
-![Categories](categories-page.JPEG)
-
-### Task Management
-
-![Task Management](taskflow-pro-page.JPEG)
+### Categories Page
+![Categories Page](Screenshots/categories-page.jpeg)
 
 ##  Demo Video
 
 Watch the project demo here:
 
-[▶️▶ TaskFlow Pro Demo Video](Demo/Taskflow-Pro-Demo-Video.mp4)
+[▶️ TaskFlow Pro Demo Video](Demo/Taskflow-Pro-Demo-Video.mp4)
 
 ## Future Improvements
 
